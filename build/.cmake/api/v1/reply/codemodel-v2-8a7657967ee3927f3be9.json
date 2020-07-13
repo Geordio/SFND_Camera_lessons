@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "camera_fusion",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "project_lidar_to_camera::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project_lidar_to_camera-6249d51123b981faf245.json",
+					"name" : "project_lidar_to_camera",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "show_lidar_top_view::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-show_lidar_top_view-b66e6a2f48f12a024f4a.json",
+					"name" : "show_lidar_top_view",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/george/workspace/SFND_camera/lessons/workspace/SFND_Camera_lessons/build",
+		"source" : "/home/george/workspace/SFND_camera/lessons/workspace/SFND_Camera_lessons"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

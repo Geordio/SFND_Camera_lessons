@@ -1,0 +1,4 @@
+/home/george/workspace/SFND_camera/lessons/workspace/SFND_Camera_lessons/build/CMakeFiles/rebuild_cache.dir
+/home/george/workspace/SFND_camera/lessons/workspace/SFND_Camera_lessons/build/CMakeFiles/project_lidar_to_camera.dir
+/home/george/workspace/SFND_camera/lessons/workspace/SFND_Camera_lessons/build/CMakeFiles/edit_cache.dir
+/home/george/workspace/SFND_camera/lessons/workspace/SFND_Camera_lessons/build/CMakeFiles/show_lidar_top_view.dir
